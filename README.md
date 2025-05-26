@@ -12,7 +12,7 @@ The goal of this project is to replicate the homepage of Dropbox's branding webs
 
 ## 🌐 Live Demo
 
-👉 [View Deployed Website](https://dropbox-main-clone.vercel.app)
+👉 [View Deployed Website](https://dropbox-nu.vercel.app)
 
 ## 🛠️ Tech Stack
 
